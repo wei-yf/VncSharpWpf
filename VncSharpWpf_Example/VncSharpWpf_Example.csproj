@@ -53,6 +53,9 @@
   <PropertyGroup>
     <ApplicationIcon>vncviewer.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>VncSharpWpf_Example.App</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
